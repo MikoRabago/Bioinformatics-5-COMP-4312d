@@ -1,33 +1,31 @@
-# Basic-Bioinformatics-Bioinformatics-1-BIO-4312d-
+# Bioinformatics 5 (COMP 4312d)
 A repository containing all the file projects that I have for the Basic Bioinformatics (Bioinformatics 1) (BIO 4312d)
 
-Link to this card: https://trello.com/c/g4W0b5Km
+Link to this card: https://trello.com/c/gLIccCIk
 
 Section: Bioinformatics
-Course: Basic Bioinformatics (Bioinformatics 1) | Coursera
+Course: Bioinformatics 5 | Coursera
 Final Project: link to your GitHub repository
 Duration: 4 weeks
-Effort: 4-10 hours per week
+Effort: 6 hours per week
 
-Biology Meets Programming: Bioinformatics for Beginners
+Genomic Data Science and Clustering (Bioinformatics V)
 
 About this Course
-Are you interested in learning how to program (in Python) within a scientific setting?
+How do we infer which genes orchestrate various processes in the cell? How did humans migrate out of Africa and spread around the world? In this class, we will see that these two seemingly different questions can be addressed using similar algorithmic and machine learning techniques arising from the general problem of dividing data points into distinct clusters.
 
-This course will cover algorithms for solving various biological problems along with a handful of programming challenges helping you implement these algorithms in Python. It offers a gently-paced introduction to our Bioinformatics Specialization, preparing learners to take the first course in the Specialization, "Finding Hidden Messages in DNA".
+In the first half of the course, we will introduce algorithms for clustering a group of objects into a collection of clusters based on their similarity, a classic problem in data science, and see how these algorithms can be applied to gene expression data.
 
-Each of the four weeks in the course will consist of two required components. First, an interactive textbook provides Python programming challenges that arise from real biological problems. If you haven't programmed in Python before, not to worry! We provide "Just-in-Time" exercises from the Codecademy Python track. And each page in our interactive textbook has its own discussion forum, where you can interact with other learners. Second, each week will culminate in a summary quiz.
+In the second half of the course, we will introduce another classic tool in data science called principal components analysis that can be used to preprocess multidimensional data before clustering in an effort to greatly reduce the number dimensions without losing much of the "signal" in the data.
 
-Lecture videos are also provided that accompany the material, but these videos are optional.
+Finally, you will learn how to apply popular bioinformatics software tools to solve a real problem in clustering.
 
-SKILLS YOU WILL GAIN
-(1) Bioinformatics
-(2) Bioinformatics Algorithms
-(3) Biology
-(4) Python Programming
+Introduction to Clustering Algorithms
+<p>Welcome to class!</p><p>At the beginning of the class, we will see how algorithms for&nbsp;<strong>clustering&nbsp;</strong>a set of data points&nbsp;will help us determine how yeast became such good wine-makers. At the bottom of this email is the Bioinformatics Cartoon for this chapter, courtesy of <a href="http://bearandfox.com" target="_blank" title="Link: http://bearandfox.com">Randall Christopher</a> and serving as a chapter header in the Specialization's bestselling <a href="BioinformaticsAlgorithms.github.io" target="_blank">print companion</a>. How did the monkey lose a wine-drinking contest to a tiny mammal? &nbsp;Why have Pavel and Phillip become cavemen? And will flipping a coin help them escape their eternal boredom until they can return to the present? Start learning to find out!</p><p><img width="550" alt="" src="http://bioinformaticsalgorithms.com/images/cover/clustering_cropped.jpg" title="Image: http://bioinformaticsalgorithms.com/images/cover/clustering_cropped.jpg"></p>
 
-Syllabus
-(1) Where in the Genome Does Replication Begin? (Part 1)
-(2) Where in the Genome Does Replication Begin? (Part 2)
-(3) Which DNA Patterns Play the Role of Molecular Clocks? (Part 1)
-(4) Which DNA Patterns Play the Role of Molecular Clocks? (Part 2)
+Advanced Clustering Techniques
+<p>Welcome to week 2 of class!</p>
+
+<p>This week, we will see how we can move from a "hard" assignment of points to clusters toward a "soft" assignment that allows the boundaries of the clusters to blend. We will also see how to adapt the Lloyd algorithm that we encountered in the first week in order to produce an algorithm for soft clustering. We will also see another clustering algorithm called "hierarchical clustering" that groups objects into larger and larger clusters.</p>
+
+Introductory Algorithms in Population Genetics
